@@ -1,0 +1,10 @@
+#cgh {
+    width: 1519px;
+    height: 1200px;
+    filter: brightness(40%);
+}
+
+body {
+    display: block;
+    margin: 0%;
+}
